@@ -1,0 +1,26 @@
+# Nmap 7.80 scan initiated Mon Jun 27 10:15:59 2022 as: nmap -sP -oN report.log 192.168.1.1/24
+Nmap scan report for _gateway (192.168.1.1)
+Host is up (0.0029s latency).
+Nmap scan report for tst (192.168.1.14)
+Host is up (0.00034s latency).
+Nmap scan report for 192.168.1.87
+Host is up (0.0039s latency).
+Nmap scan report for jenkins.my (192.168.1.150)
+Host is up (0.0014s latency).
+Nmap scan report for vagrant (192.168.1.151)
+Host is up (0.00040s latency).
+Nmap scan report for 192.168.1.244
+Host is up (0.0066s latency).
+# Nmap done at Mon Jun 27 10:16:01 2022 -- 256 IP addresses (6 hosts up) scanned in 2.77 seconds
+
+
+
+Retrieving speedtest.net configuration...
+Testing from CJSC Settelecom (31.220.152.17)...
+Retrieving speedtest.net server list...
+Selecting best server based on ping...
+Hosted by Amigo.Minsk (Minsk) [674.23 km]: 6.8 ms
+Testing download speed................................................................................
+Download: 30.88 Mbit/s
+Testing upload speed......................................................................................................
+Upload: 23.97 Mbit/s
